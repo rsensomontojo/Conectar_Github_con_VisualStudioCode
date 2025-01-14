@@ -1,7 +1,10 @@
 ## Como conectar mi repositorio de Github con mi Visual Studio Code
 
-####Primero asegurate tener git descargado en tu ordenador
+#### Primero asegurate tener git descargado en tu ordenador
 
+*Si no tienes instalado Git en tu ordenador, para Windows o Linux: [Instalación](https://github.com/rsensomontojo/Instalacion_Git) sino sáltate este paso.*
+
+---
 
 1. Clona el repositorio en tu máquina local:
    ```bash
